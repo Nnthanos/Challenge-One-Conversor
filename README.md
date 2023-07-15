@@ -2,7 +2,7 @@
 
 Este é um desafio do curso de Java da Alura com a OracleOne.
 
-## Desafio
+## Desafio:
 
 O desafio é criar uma interface para o usuário inserir os parâmetros de conversão e retornar os valores convertidos:
 
@@ -16,3 +16,8 @@ O desafio é criar uma interface para o usuário inserir os parâmetros de conve
    > Lembrando que deve ser possível também converter de forma inversa.
 
 O Desafio foi feito usando o Visual Studio Code e somente com a linguagem java.
+
+## Extra:
+
+- A parte do `Conversor de Temperatura` é um desafio Extra que foi implementado.
+- A adição deste `Readme.md` também faz parte do Extra
