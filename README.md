@@ -1,18 +1,18 @@
-## Getting Started
+## Challenge One Conversor de moeda/temperatura
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um desafio do curso de Java da Alura com a OracleOne.
 
-## Folder Structure
+## Desafio
 
-The workspace contains two folders by default, where:
+O desafio é criar uma interface para o usuário inserir os parâmetros de conversão e retornar os valores convertidos:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* O conversor de moeda deverá:
+    - `Converter de Reais a Dólar`
+    - `Converter de Reais a Euro`
+    - `Converter de Reais a Libras Esterlinas`
+    - `Converter de Reais a Peso argentino`
+    - `Converter de Reais a Peso Chileno`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+   > Lembrando que deve ser possível também converter de forma inversa.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O Desafio foi feito usando o Visual Studio Code e somente com a linguagem java.
