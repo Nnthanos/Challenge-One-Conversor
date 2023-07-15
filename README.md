@@ -20,4 +20,4 @@ O Desafio foi feito usando o Visual Studio Code e somente com a linguagem java.
 ## Extra:
 
 - A parte do `Conversor de Temperatura` é um desafio Extra que foi implementado.
-- A adição deste `Readme.md` também faz parte do Extra
+- A adição deste `Readme.md` também faz parte do Extra.
